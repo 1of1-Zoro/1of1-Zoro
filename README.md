@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Alves! 🖖
+### Olá! eu sou o Gabriel Alves 🖖
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/GabrielZoro/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieoaalvess)
