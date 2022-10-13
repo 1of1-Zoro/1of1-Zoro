@@ -7,6 +7,8 @@
 
 ![Zoro GitHub stats](https://github-readme-stats.vercel.app/api?username=1of1-zoro&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1of1-zoro)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que uso no meu dia:
 
 <div style = "display: inline_block"><br/>
